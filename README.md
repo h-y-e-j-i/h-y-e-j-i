@@ -6,11 +6,11 @@
   <h2> 💪 Skills 💪</h2> 
   
   <h3> ✍ Now Studying ✍ </h3>
-  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=black"/>
   
    
   <h3> ❤ Major ❤ </h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-005A96?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ArcGIS-5763F8?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-005A96?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ArcGIS-5763F8?style=flat-square&logoColor=white"/>
 
   <h3>💙 Minor 💙 </h3>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>  
