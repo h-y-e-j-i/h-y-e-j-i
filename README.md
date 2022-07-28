@@ -4,6 +4,10 @@
   ![1052d94aea02e511ea9300fc0ff6db85](https://user-images.githubusercontent.com/58590260/165882063-15090b31-c819-46d2-911e-7dc2a94d1731.gif)
   
   <h2> 💪 Skills 💪</h2> 
+  
+  <h3> ✍ Now Studying ✍ </h3>
+  <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=white"/>
+  
    
   <h3> ❤ Major ❤ </h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-005A96?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ArcGIS-5763F8?style=flat-square&logoColor=white"/>
